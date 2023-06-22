@@ -12,6 +12,6 @@
 6. This Projects File is only use for **JavaWeb-Curriculum-Design of Class 2020** in HUUC(Henan University of Urban Construction).
    1. If anyone want to use for other purpose, please let me know( Free of course，Just let me know ).
 ---
-    * writen by [M.Ds.CQ](https://github.com/MDsCQ) ( ChaoticNeutral )
-    * 2023.6.22 11:59
+* writen by [M.Ds.CQ](https://github.com/MDsCQ) ( ChaoticNeutral )
+* 2023.6.22 11:59
     
