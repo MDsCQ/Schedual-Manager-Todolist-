@@ -1,0 +1,49 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   Requestion.java
+
+package com.chaoticneutral.taskmanager.model;
+
+
+public class Requestion
+{
+
+    public Requestion()
+    {
+    }
+
+    public int getUid()
+    {
+        return uid;
+    }
+
+    public void setUid(int uid)
+    {
+        this.uid = uid;
+    }
+
+    public String getUsername()
+    {
+        return username;
+    }
+
+    public void setUsername(String username)
+    {
+        this.username = username;
+    }
+
+    public String getUserpassword()
+    {
+        return userpassword;
+    }
+
+    public void setUserpassword(String userpassword)
+    {
+        this.userpassword = userpassword;
+    }
+
+    private int uid;
+    private String username;
+    private String userpassword;
+}
